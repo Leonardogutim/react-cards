@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+![screenshot](https://user-images.githubusercontent.com/44820296/130521018-cb368253-f7dc-4d54-b140-41c774669798.png)
+
 # Ract-Cards
 React interface project, working on a landing page.
 =======
